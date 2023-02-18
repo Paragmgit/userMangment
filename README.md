@@ -31,7 +31,3 @@
 * delete user
 * Get all user
 * Get user by Id
-* Add event
-* Update event
-* Delete event
-* Get All event by date
